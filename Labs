@@ -1,6 +1,11 @@
-Lab-1:-
+LAB-1:-
 Created security groups for Bastion and DMZ.
 Launched Bastion and DMZ server and connected to the DMZ from Bastion server.
 Installed Apache on DMZ and started.
 Created a test html file with the name test.html in /var/www/html directory.
 Tested whether created file executed or not on Apache with the DMZ Server public IP-13.232.135.6 and test.html file name.
+LAB-2(Route-53 Addresses):-
+www.awsservices.ga
+s3.awsservices.ga
+lamp.awsservices.ga
+wp.awsservices.ga
