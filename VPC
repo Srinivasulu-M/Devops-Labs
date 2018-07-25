@@ -1,0 +1,4 @@
+VPC-stands for virtual private cloud.
+Region- where the aws service available.
+vpc is region dependent
+vpc is not az dependent.
